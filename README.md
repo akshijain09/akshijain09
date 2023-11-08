@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshi Jain</h1>
 <h3 align="center">A passionate AI learner from India who believes in Hard work and shaping her life to again make a big fly with more energy and gathering all the wings which she has lost.</h3>
 
-<img align="right"> <img src="https://img.freepik.com/premium-photo/beautiful-cute-anime-girl-floating-space-listening-music-her-headphones-manga-style-relaxing-generative-ai-lofi-hip-hop-music-study-girl-chilling-generative-ai_117038-5568.jpg?w=740">
+<img align="right"> <img src="https://img.freepik.com/premium-photo/girl-studying-listening-music-with-her-headphones-her-bedroom-lofi-style-generative-ai_252214-4122.jpg?w=826">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshijain09&label=Profile%20views&color=0e75b6&style=flat" alt="akshijain09" /> </p>
 
